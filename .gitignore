@@ -17,17 +17,6 @@
 mono_crash.*
 
 # Build results
-Domain/bin/
-Domain/obj/
-Application/bin/
-Application/obj/
-Infrastructure/bin/
-Infrastructure/obj/
-Presentation/bin/
-Presentation/obj/
-WebApi/bin/
-WebApi/obj/
-
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
