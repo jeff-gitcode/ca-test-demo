@@ -1,0 +1,17 @@
+C:\dev\ca\ca-test-demo\Presentation\bin\Release\net7.0\Presentation.deps.json
+C:\dev\ca\ca-test-demo\Presentation\bin\Release\net7.0\Presentation.dll
+C:\dev\ca\ca-test-demo\Presentation\bin\Release\net7.0\Presentation.pdb
+C:\dev\ca\ca-test-demo\Presentation\bin\Release\net7.0\Application.dll
+C:\dev\ca\ca-test-demo\Presentation\bin\Release\net7.0\Domain.dll
+C:\dev\ca\ca-test-demo\Presentation\bin\Release\net7.0\Application.pdb
+C:\dev\ca\ca-test-demo\Presentation\bin\Release\net7.0\Domain.pdb
+C:\dev\ca\ca-test-demo\Presentation\obj\Release\net7.0\Presentation.csproj.AssemblyReference.cache
+C:\dev\ca\ca-test-demo\Presentation\obj\Release\net7.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ca\ca-test-demo\Presentation\obj\Release\net7.0\Presentation.AssemblyInfoInputs.cache
+C:\dev\ca\ca-test-demo\Presentation\obj\Release\net7.0\Presentation.AssemblyInfo.cs
+C:\dev\ca\ca-test-demo\Presentation\obj\Release\net7.0\Presentation.csproj.CoreCompileInputs.cache
+C:\dev\ca\ca-test-demo\Presentation\obj\Release\net7.0\Presentation.csproj.CopyComplete
+C:\dev\ca\ca-test-demo\Presentation\obj\Release\net7.0\Presentation.dll
+C:\dev\ca\ca-test-demo\Presentation\obj\Release\net7.0\refint\Presentation.dll
+C:\dev\ca\ca-test-demo\Presentation\obj\Release\net7.0\Presentation.pdb
+C:\dev\ca\ca-test-demo\Presentation\obj\Release\net7.0\ref\Presentation.dll

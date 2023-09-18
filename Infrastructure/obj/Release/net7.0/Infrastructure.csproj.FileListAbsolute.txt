@@ -1,0 +1,17 @@
+C:\dev\ca\ca-test-demo\Infrastructure\bin\Release\net7.0\Infrastructure.deps.json
+C:\dev\ca\ca-test-demo\Infrastructure\bin\Release\net7.0\Infrastructure.dll
+C:\dev\ca\ca-test-demo\Infrastructure\bin\Release\net7.0\Infrastructure.pdb
+C:\dev\ca\ca-test-demo\Infrastructure\bin\Release\net7.0\Application.dll
+C:\dev\ca\ca-test-demo\Infrastructure\bin\Release\net7.0\Domain.dll
+C:\dev\ca\ca-test-demo\Infrastructure\bin\Release\net7.0\Application.pdb
+C:\dev\ca\ca-test-demo\Infrastructure\bin\Release\net7.0\Domain.pdb
+C:\dev\ca\ca-test-demo\Infrastructure\obj\Release\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\dev\ca\ca-test-demo\Infrastructure\obj\Release\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ca\ca-test-demo\Infrastructure\obj\Release\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\dev\ca\ca-test-demo\Infrastructure\obj\Release\net7.0\Infrastructure.AssemblyInfo.cs
+C:\dev\ca\ca-test-demo\Infrastructure\obj\Release\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\dev\ca\ca-test-demo\Infrastructure\obj\Release\net7.0\Infrastructure.csproj.CopyComplete
+C:\dev\ca\ca-test-demo\Infrastructure\obj\Release\net7.0\Infrastructure.dll
+C:\dev\ca\ca-test-demo\Infrastructure\obj\Release\net7.0\refint\Infrastructure.dll
+C:\dev\ca\ca-test-demo\Infrastructure\obj\Release\net7.0\Infrastructure.pdb
+C:\dev\ca\ca-test-demo\Infrastructure\obj\Release\net7.0\ref\Infrastructure.dll
