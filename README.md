@@ -5,7 +5,7 @@ Tech Stack
 - [x] CA
 - [x] NetArchTest
 
-![alt text](./Doc/dotnet-onion-architecture.PNG)
+![alt text](./Doc/dotnet-onion-architecture.png)
 
 ```javascript
 $ dotnet new sln -o ca-test-demo
