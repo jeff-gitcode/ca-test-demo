@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\ca\\ca-test-demo\\WebApi\\WebApi.csproj": {}
+    "C:\\dev\\ca\\ca-test-demo\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "c:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj": {
+    "C:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "c:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj",
+        "projectPath": "C:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\ca\\ca-test-demo\\Application\\obj\\",
+        "outputPath": "C:\\dev\\ca\\ca-test-demo\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\dev\\ca\\ca-test-demo\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\dev\\ca\\ca-test-demo\\Domain\\Domain.csproj"
+              "C:\\dev\\ca\\ca-test-demo\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\dev\\ca\\ca-test-demo\\Domain\\Domain.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "c:\\dev\\ca\\ca-test-demo\\Domain\\Domain.csproj": {
+    "C:\\dev\\ca\\ca-test-demo\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\ca\\ca-test-demo\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\dev\\ca\\ca-test-demo\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\dev\\ca\\ca-test-demo\\Domain\\Domain.csproj",
+        "projectPath": "C:\\dev\\ca\\ca-test-demo\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\ca\\ca-test-demo\\Domain\\obj\\",
+        "outputPath": "C:\\dev\\ca\\ca-test-demo\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -154,14 +154,14 @@
         }
       }
     },
-    "c:\\dev\\ca\\ca-test-demo\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\dev\\ca\\ca-test-demo\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\ca\\ca-test-demo\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\dev\\ca\\ca-test-demo\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\dev\\ca\\ca-test-demo\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\dev\\ca\\ca-test-demo\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\ca\\ca-test-demo\\Infrastructure\\obj\\",
+        "outputPath": "C:\\dev\\ca\\ca-test-demo\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -183,8 +183,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj": {
-                "projectPath": "c:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj"
+              "C:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj": {
+                "projectPath": "C:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj"
               }
             }
           }
@@ -224,14 +224,14 @@
         }
       }
     },
-    "c:\\dev\\ca\\ca-test-demo\\Presentation\\Presentation.csproj": {
+    "C:\\dev\\ca\\ca-test-demo\\Presentation\\Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\ca\\ca-test-demo\\Presentation\\Presentation.csproj",
+        "projectUniqueName": "C:\\dev\\ca\\ca-test-demo\\Presentation\\Presentation.csproj",
         "projectName": "Presentation",
-        "projectPath": "c:\\dev\\ca\\ca-test-demo\\Presentation\\Presentation.csproj",
+        "projectPath": "C:\\dev\\ca\\ca-test-demo\\Presentation\\Presentation.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\ca\\ca-test-demo\\Presentation\\obj\\",
+        "outputPath": "C:\\dev\\ca\\ca-test-demo\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -253,8 +253,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj": {
-                "projectPath": "c:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj"
+              "C:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj": {
+                "projectPath": "C:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj"
               }
             }
           }
@@ -302,14 +302,14 @@
         }
       }
     },
-    "c:\\dev\\ca\\ca-test-demo\\WebApi\\WebApi.csproj": {
+    "C:\\dev\\ca\\ca-test-demo\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\ca\\ca-test-demo\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\dev\\ca\\ca-test-demo\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "c:\\dev\\ca\\ca-test-demo\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\dev\\ca\\ca-test-demo\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\ca\\ca-test-demo\\WebApi\\obj\\",
+        "outputPath": "C:\\dev\\ca\\ca-test-demo\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -331,14 +331,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj": {
-                "projectPath": "c:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj"
+              "C:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj": {
+                "projectPath": "C:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj"
               },
-              "c:\\dev\\ca\\ca-test-demo\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "c:\\dev\\ca\\ca-test-demo\\Infrastructure\\Infrastructure.csproj"
+              "C:\\dev\\ca\\ca-test-demo\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\dev\\ca\\ca-test-demo\\Infrastructure\\Infrastructure.csproj"
               },
-              "c:\\dev\\ca\\ca-test-demo\\Presentation\\Presentation.csproj": {
-                "projectPath": "c:\\dev\\ca\\ca-test-demo\\Presentation\\Presentation.csproj"
+              "C:\\dev\\ca\\ca-test-demo\\Presentation\\Presentation.csproj": {
+                "projectPath": "C:\\dev\\ca\\ca-test-demo\\Presentation\\Presentation.csproj"
               }
             }
           }

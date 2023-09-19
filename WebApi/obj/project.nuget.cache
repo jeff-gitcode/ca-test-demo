@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3xlF5h5ABk7bKhbFEdENwi77G/7vJOPGaAca3lEcOkekbR3fGi56NfaNLHQWHlL3R3vULd66UlRR12G4OatWFQ==",
+  "dgSpecHash": "HFJCC+rR7/D6A+JfJMAqUzDrAko2IdJWgFuPq/ZI00FdazY++gW3ZNG75zAxO2G93gnRmKcexpp6XafP/v2oUg==",
   "success": true,
-  "projectFilePath": "c:\\dev\\ca\\ca-test-demo\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\dev\\ca\\ca-test-demo\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",

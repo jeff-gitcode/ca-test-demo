@@ -49,4 +49,11 @@ $ dotnet add .\WebApi\ package Serilog.AspNetCore
 
 $ dotnet build ca-test-demo.sln
 
+$ dotnet new xunit -o Arch.Tests
+
+$ dotnet sln add ./Arch.Tests/Arch.Tests.csproj
+
+$ dotnet add .\Arch.Tests\ package NetArchTest.Rules
+$ dotnet add .\Arch.Tests\ package FluentAssertions
+
 ```
