@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3xlF5h5ABk7bKhbFEdENwi77G/7vJOPGaAca3lEcOkekbR3fGi56NfaNLHQWHlL3R3vULd66UlRR12G4OatWFQ==",
+  "dgSpecHash": "/axuK8eGyXtdEb7VGfGDH+u9/4vP+JzPTvm8Vpcum0l1RGeXUFmkhiIDAPN9klzgDOkeTaMLqAueCIi0VKZayA==",
   "success": true,
-  "projectFilePath": "c:\\dev\\ca\\ca-test-demo\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\dev\\ca\\ca-test-demo\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
@@ -22,6 +22,7 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\serilog.aspnetcore\\7.0.0\\serilog.aspnetcore.7.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\serilog.extensions.hosting\\7.0.0\\serilog.extensions.hosting.7.0.0.nupkg.sha512",

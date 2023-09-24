@@ -99,7 +99,7 @@ $ kubectl apply -f kubernetes/deploy-webapi.yml
 $ kubectl config get-contexts
 $ kubectl get deployment
 $ kubectl get service
-$ kubectl delete deployment -all
+$ kubectl delete deployment ca-test-demo-deployment
 $ kubectl delete services --all
 $ kubectl get all
 

@@ -343,11 +343,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "c:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj",
+      "projectPath": "C:\\dev\\ca\\ca-test-demo\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "c:\\dev\\ca\\ca-test-demo\\Application\\obj\\",
+      "outputPath": "C:\\dev\\ca\\ca-test-demo\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -369,8 +369,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\dev\\ca\\ca-test-demo\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\dev\\ca\\ca-test-demo\\Domain\\Domain.csproj"
+            "C:\\dev\\ca\\ca-test-demo\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\dev\\ca\\ca-test-demo\\Domain\\Domain.csproj"
             }
           }
         }

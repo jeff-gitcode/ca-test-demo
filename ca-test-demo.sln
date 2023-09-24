@@ -13,7 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Presentation", "Presentatio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{FBD9E859-2D16-4B00-A941-B8AC05270D9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arch.Tests", "Arch.Tests\Arch.Tests.csproj", "{121B2F3B-FC2E-4DEC-866C-DAF3DC33F87B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arch.Tests", "Arch.Tests\Arch.Tests.csproj", "{121B2F3B-FC2E-4DEC-866C-DAF3DC33F87B}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{B6DC8403-481B-467B-AFC7-EC1147D1D7D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{8DCA5946-84D3-4A8A-97E1-E36C9D66CFF0}"
+	ProjectSection(SolutionItems) = preProject
+		kubernetes\deployment.yml = kubernetes\deployment.yml
+		kubernetes\service.yml = kubernetes\service.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,8 +53,15 @@ Global
 		{121B2F3B-FC2E-4DEC-866C-DAF3DC33F87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{121B2F3B-FC2E-4DEC-866C-DAF3DC33F87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{121B2F3B-FC2E-4DEC-866C-DAF3DC33F87B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6DC8403-481B-467B-AFC7-EC1147D1D7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DC8403-481B-467B-AFC7-EC1147D1D7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DC8403-481B-467B-AFC7-EC1147D1D7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DC8403-481B-467B-AFC7-EC1147D1D7D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62DB88E6-A5C2-4700-A500-95768D3AE097}
 	EndGlobalSection
 EndGlobal

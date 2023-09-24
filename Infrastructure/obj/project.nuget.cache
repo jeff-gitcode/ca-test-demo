@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3W70UMw6qNjHpQvXy+fOTlZdPM2u0JdfoLyXJ4mqYcrizCGWOuL9dS1AkM7/eNEplXd6QUJdvFQdaW5ItsyO9A==",
+  "dgSpecHash": "BME+he+njAs36QE6mGaVzZsfBMlJnHRj2dpZfajMmSf/O1fd34hGfp1NQwwHNHOx5GN8kfZqXKwNiglrt53J+Q==",
   "success": true,
-  "projectFilePath": "c:\\dev\\ca\\ca-test-demo\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\dev\\ca\\ca-test-demo\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
