@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: testndeploymentcontainer
-        image: webapi
+        image: ca-test-demo-image
         ports:
         - containerPort: 80

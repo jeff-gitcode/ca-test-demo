@@ -10,6 +10,7 @@ Tech Stack
 
 - [x] docker/docker-compose
 - [x] Kubernetes
+- [x] Helm Chart
 -
 
 ```javascript
@@ -103,4 +104,23 @@ $ kubectl delete deployment ca-test-demo-deployment
 $ kubectl delete services --all
 $ kubectl get all
 
+
+# final
+$ docker build -t ca-test-demo-image -f ./WebApi/Dockerfile .
+$ kubectl apply -f WebApi/k8s-deploy.yml
+$ kubectl get all
+# service/webapiservice           NodePort    10.98.111.226    <none>        8080:31334/TCP   12s
+http://localhost:31334/weatherforecast
+
+# helm
+$ choco install kubernetes-helm
+$ helm version
+$ helm create helm-charts
+# modify values.yml
+# cd helm-charts
+$ helm install ca-test-demo-helm .
+$ helm list
+$ kubectl get pods
+$ kubectl get services
+$ helm uninstall ca-test-demo-helm
 ```

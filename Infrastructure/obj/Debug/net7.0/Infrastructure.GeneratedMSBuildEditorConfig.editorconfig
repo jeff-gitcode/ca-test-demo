@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Infrastructure
-build_property.ProjectDir = c:\dev\ca\ca-test-demo\Infrastructure\
+build_property.ProjectDir = C:\dev\ca\ca-test-demo\Infrastructure\
