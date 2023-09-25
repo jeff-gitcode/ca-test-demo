@@ -10,7 +10,9 @@ Tech Stack
 
 - [x] docker/docker-compose
 - [x] Kubernetes
--
+  - ![alt text](./doc/kubernetes-demo.gif)
+- [x] Helm Charts
+      ![alt text](./doc/helm-charts-demo.gif)
 
 ```javascript
 $ dotnet new sln -o ca-test-demo
@@ -70,6 +72,7 @@ $ docker run --name ca-test-demo -p 8082:80 -d ca-test-demo
 
 # http://localhost:8082/weatherforecast
 
+# docker
 $ docker images
 
 $ docker create --name webapi-counter ca-test-demo
@@ -103,4 +106,26 @@ $ kubectl delete deployment -all
 $ kubectl delete services --all
 $ kubectl get all
 
+# final
+$ docker build -t ca-test-demo-image -f ./WebApi/Dockerfile .
+$ docker run --rm -it -p 9000:80 ca-test-demo-image
+$ kubectl apply -f WebApi/k8s-deploy.yml
+$ kubectl get all
+# service/webapiservice           NodePort    10.98.111.226    <none>        8080:31334/TCP   12s
+http://localhost:31334/weatherforecast
+
+# helm charts
+$ docker run --rm -it -p 9000:80 ca-test-demo-image
+$ choco install kubernetes-helm
+$ helm version
+$ helm create helm-charts
+# modify values.yml
+# cd helm-charts
+$ helm install ca-test-demo-helm .
+$ helm list
+$ kubectl get pods
+$ kubectl get services
+$ helm uninstall ca-test-demo-helm
+$ kubectl describe pod
+$ kubectl port-forward service/aspnet3release-service 9999:8888
 ```

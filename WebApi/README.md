@@ -113,14 +113,18 @@ $ kubectl get all
 http://localhost:31334/weatherforecast
 
 # helm
+$ docker run --rm -it -p 9000:80 ca-test-demo-image
 $ choco install kubernetes-helm
 $ helm version
 $ helm create helm-charts
 # modify values.yml
 # cd helm-charts
+$ helm install helm-charts . --dry-run --debug
 $ helm install ca-test-demo-helm .
 $ helm list
 $ kubectl get pods
 $ kubectl get services
 $ helm uninstall ca-test-demo-helm
+$ kubectl describe pod
+
 ```
