@@ -13,6 +13,8 @@ Tech Stack
   - ![alt text](./doc/kubernetes-demo.gif)
 - [x] Helm Charts
       ![alt text](./doc/helm-charts-demo.gif)
+- [x] Coverlet
+      ![alt text](./doc/test-coverage-demo.png)
 
 ```javascript
 $ dotnet new sln -o ca-test-demo
@@ -128,4 +130,10 @@ $ kubectl get services
 $ helm uninstall ca-test-demo-helm
 $ kubectl describe pod
 $ kubectl port-forward service/aspnet3release-service 9999:8888
+
+# Coverlet
+$ dotnet add package coverlet.collector
+$ dotnet tool install -g dotnet-reportgenerator-globaltool
+#   cd .\TestResults\3c7d0e29-da01-4050-a0b6-ecbe396b8f8d\
+$ dotnet reportgenerator "-reports:coverage.cobertura.xml" "-targetdir:coveragereport" -reporttypes:Html
 ```
